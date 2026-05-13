@@ -143,9 +143,7 @@ Atualmente estudo e desenvolvo projetos envolvendo:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RyanLucas007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanLucas007&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=RyanLucas007&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 

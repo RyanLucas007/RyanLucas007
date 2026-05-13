@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ryan%20Lucas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Game%20Developer%20%7C%20Software%20Developer%20%7C%20Mod%20Creator&descAlignY=55&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ryan%20Lucas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Game%20Developer%20%7C%20Software%20Developer%20%7C%20Creative%20Tools%20Builder&descAlignY=55&descSize=16"/>
 
 </div>
 
@@ -8,9 +8,9 @@
 
 # 👋 Olá, eu sou Ryan Lucas
 
-### Desenvolvedor de softwares, jogos eletrônicos e mods
+### Desenvolvedor de softwares, jogos eletrônicos e ferramentas criativas
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Criando+mods+para+ARK+Survival+Ascended;Desenvolvendo+jogos+em+Unity+e+Unreal+Engine;Construindo+ferramentas+para+devs;Explorando+sistemas%2C+interfaces+e+gameplay" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Desenvolvendo+jogos+em+Unity;Criando+sistemas+com+Unreal+Engine;Construindo+ferramentas+para+devs;Explorando+interfaces%2C+gameplay+e+experi%C3%AAncias+interativas;Transformando+ideias+em+projetos+funcionais" />
 
 </div>
 
@@ -18,19 +18,21 @@
 
 ## 🧠 Sobre mim
 
-Sou um desenvolvedor brasileiro apaixonado por **jogos, mods, ferramentas e sistemas criativos**.
+Sou um desenvolvedor brasileiro apaixonado por **jogos, softwares, interfaces, ferramentas e experiências interativas**.
+
+Gosto de criar sistemas que misturam lógica, visual e criatividade.  
+Do código ao design, gosto de transformar ideias em projetos funcionais, organizados e com identidade própria.
 
 Atualmente estudo e desenvolvo projetos envolvendo:
 
 - 🎮 Desenvolvimento de jogos 2D e 3D
-- 🦖 Mods para ARK Survival Ascended
-- 🧩 Unreal Engine, Blueprints e sistemas de gameplay
-- 🛠️ Ferramentas web para auxiliar criação de assets
-- 💻 Aplicações desktop em Java, C# e WPF
+- 🧩 Unity e Unreal Engine
+- 🧠 Blueprints, lógica de gameplay e sistemas interativos
+- 🎨 Blender, Photoshop e Substance Painter
+- 🛠️ Ferramentas web para produtividade e manipulação de imagens
+- 💻 Aplicações desktop com Java, C# e WPF
 - 📱 Aplicativos mobile com Flutter e React Native
-- 🎨 Blender, Substance Painter e workflows para texturas
-
-Gosto de transformar ideias meio caóticas em sistemas funcionais, bonitos e úteis.
+- 🌐 Interfaces web com HTML, CSS e JavaScript
 
 ---
 
@@ -40,15 +42,15 @@ Gosto de transformar ideias meio caóticas em sistemas funcionais, bonitos e út
   <tr>
     <td align="center" width="33%">
       <h3>🎮 Game Dev</h3>
-      <p>Unity, Unreal Engine, gameplay, UI, sistemas e protótipos.</p>
+      <p>Unity, Unreal Engine, gameplay, interfaces, sistemas e protótipos.</p>
     </td>
     <td align="center" width="33%">
-      <h3>🦖 Modding</h3>
-      <p>ARK DevKit, criaturas, bosses, tiers, itens e mecânicas personalizadas.</p>
+      <h3>🧠 Systems</h3>
+      <p>Lógica, arquitetura, automações, ferramentas e aplicações personalizadas.</p>
     </td>
     <td align="center" width="33%">
-      <h3>🛠️ Tools</h3>
-      <p>Ferramentas web, conversores, editores e sistemas para produtividade.</p>
+      <h3>🎨 Creative Tools</h3>
+      <p>Blender, texturas, assets, edição visual e workflows para jogos.</p>
     </td>
   </tr>
 </table>
@@ -57,11 +59,17 @@ Gosto de transformar ideias meio caóticas em sistemas funcionais, bonitos e út
 
 ## 🧰 Tecnologias e ferramentas
 
-### 🎮 Game Dev
+### 🎮 Game Development
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Blueprints](https://img.shields.io/badge/Blueprints-137CBD?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+### 🎨 3D, Arte e Texturas
+
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![Substance Painter](https://img.shields.io/badge/Substance%203D%20Painter-99E83F?style=for-the-badge&logo=adobe&logoColor=000000)
 
 ### 💻 Linguagens
 
@@ -69,7 +77,7 @@ Gosto de transformar ideias meio caóticas em sistemas funcionais, bonitos e út
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 
 ### 🌐 Web e Mobile
 
@@ -83,27 +91,51 @@ Gosto de transformar ideias meio caóticas em sistemas funcionais, bonitos e út
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🧩 Projetos em destaque
+## 🧩 Projetos e interesses
 
-### 🦖 ARK Survival Ascended Mods
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🎮 Jogos e protótipos</h3>
+      <p>Criação de jogos 2D e 3D usando Unity e Unreal Engine, com foco em gameplay, sistemas, menus, progressão e experiências interativas.</p>
+    </td>
+    <td width="50%">
+      <h3>🛠️ Ferramentas para desenvolvedores</h3>
+      <p>Ferramentas em HTML, CSS e JavaScript para manipulação de imagens, conversão de arquivos, organização de assets e automação de tarefas.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🖥️ Aplicações desktop</h3>
+      <p>Sistemas criados com Java, C# e WPF, incluindo interfaces customizadas, gerenciadores e aplicações locais.</p>
+    </td>
+    <td width="50%">
+      <h3>📱 Aplicativos mobile</h3>
+      <p>Estudos e projetos com Flutter e React Native, explorando telas, navegação, APIs, estados e interfaces modernas.</p>
+    </td>
+  </tr>
+</table>
 
-Criação de sistemas personalizados para criaturas, bosses, tiers, itens, progressão e interfaces dentro do ARK DevKit.
+---
 
-### 🎮 Jogos e protótipos
+## 🧪 Atualmente focado em
 
-Projetos em Unity e Unreal Engine com foco em gameplay, narrativa, sistemas e interfaces.
+<div align="center">
 
-### 🛠️ Ferramentas para desenvolvedores
+| Área | O que estou praticando |
+|---|---|
+| 🎮 Unity | Jogos 2D, UI, sistemas e mecânicas |
+| 🧠 Unreal Engine | Blueprints, gameplay e interfaces |
+| 🎨 Blender | Modelagem, UV, assets e preparação para games |
+| 💻 C# / Java | Aplicações desktop e lógica de sistemas |
+| 📱 Mobile | Flutter, React Native e consumo de APIs |
+| 🌐 Web Tools | Ferramentas em HTML, CSS e JavaScript |
 
-Ferramentas web em HTML, CSS e JavaScript para manipulação de imagens, conversão de arquivos e automação de tarefas.
-
-### 🖥️ Aplicações desktop
-
-Sistemas em Java Swing, C# e WPF, incluindo gerenciadores, interfaces customizadas e ferramentas locais.
+</div>
 
 ---
 
@@ -150,6 +182,8 @@ Sistemas em Java Swing, C# e WPF, incluindo gerenciadores, interfaces customizad
 ---
 
 <div align="center">
+
+### ✨ Código, criatividade e sistemas interativos
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 

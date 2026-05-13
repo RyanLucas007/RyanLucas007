@@ -12,31 +12,19 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Desenvolvendo+jogos+em+Unity;Criando+sistemas+com+Unreal+Engine;Construindo+ferramentas+para+devs;Explorando+interfaces%2C+gameplay+e+experi%C3%AAncias+interativas;Transformando+ideias+em+projetos+funcionais" />
 
-<br>
-
-### 🌐 Languages / Idiomas
-
-[🇧🇷 Português](#portugues) |
-[🇺🇸 English](#english)
-
 </div>
 
 ---
 
-<a id="portugues"></a>
-
-## 🇧🇷 Português
-
 ## 🧠 Sobre mim
 
-Olá, sou um desenvolvedor brasileiro apaixonado por **jogos eletrônicos** desde criança. Desde então, venho cultivando uma grande paixão pela criação e desenvolvimento de jogos, softwares e interfaces web.
+Olá, sou um desenvolvedor brasileiro apaixonado por **Jogos eletrônicos** desde quando eu era criança, dês então eu venho desenvolvendo uma paixão para a criação e desenvolvimento de jogos, softwares e interfaces web.
+Gosto de desenvolver ferramentas e aplicações que ajudam/poupam muito tempo, coisas que exigiam algumas horas e diversos processos para fazer, consigo reduzir a alguns minutos e apenas poucos cliques.
 
-Gosto de desenvolver ferramentas e aplicações que ajudam a economizar tempo, transformando tarefas que antes exigiam horas e vários processos em soluções mais rápidas, práticas e acessíveis, reduzindo tudo a poucos minutos e alguns cliques.
+Atualmente eu utilizo as seguintes ferramentas:
 
-Atualmente, utilizo as seguintes ferramentas e tecnologias:
-
-- 🧩 Unity e Unreal Engine, para desenvolver jogos 2D e 3D
-- 🎨 Blender, Photoshop e Substance Painter, para criação de objetos 3D, texturas e imagens customizadas
+- 🧩 Unity e Unreal Engine (Para desenvolver jogos 2D e 3D)
+- 🎨 Blender, Photoshop e Substance Painter (Para criação de objetos 3D, texturas e imagens customizadas)
 - 🛠️ Ferramentas web para produtividade e manipulação de imagens
 - 💻 Aplicações desktop com Java, C# e WPF
 - 🌐 Interfaces web com HTML, CSS e JavaScript
@@ -44,11 +32,10 @@ Atualmente, utilizo as seguintes ferramentas e tecnologias:
 ---
 
 ## 🌎 Idiomas
-
 | Idioma | Nível | Uso principal |
-|---|---|---|
-| 🇧🇷 Português | Nativo | Comunicação, estudos, documentação e projetos |
-| 🇺🇸 Inglês | Intermediário | Projetos, documentação, jogos e comunicação profissional |
+| --- | --- | ---
+| Português | Idioma Nativo | Comunicação, estudos, documentação e projetos
+| Inglês | Intermediário | Uso para projetos e comunicação de negócios
 
 ---
 
@@ -61,77 +48,15 @@ Atualmente, utilizo as seguintes ferramentas e tecnologias:
       <p>Unity, Unreal Engine, gameplay, interfaces, sistemas e protótipos.</p>
     </td>
     <td align="center" width="33%">
-      <h3>🧠 Sistemas</h3>
+      <h3>🧠 Systems</h3>
       <p>Lógica, arquitetura, automações, ferramentas e aplicações personalizadas.</p>
     </td>
     <td align="center" width="33%">
-      <h3>🎨 Ferramentas Criativas</h3>
+      <h3>🎨 Creative Tools</h3>
       <p>Blender, texturas, assets, edição visual e workflows para jogos.</p>
     </td>
   </tr>
 </table>
-
-<div align="right">
-
-[⬆️ Voltar ao topo](#-olá-eu-sou-ryan-lucas)
-
-</div>
-
----
-
-<a id="english"></a>
-
-## 🇺🇸 English
-
-## 🧠 About me
-
-Hi, I'm Ryan Lucas, a Brazilian developer passionate about **video games** since childhood. Since then, I have been building a strong passion for creating and developing games, software and web interfaces.
-
-I enjoy developing tools and applications that save time, turning tasks that used to require hours and multiple steps into faster, practical and accessible solutions.
-
-I currently work with the following tools and technologies:
-
-- 🧩 Unity and Unreal Engine, for 2D and 3D game development
-- 🎨 Blender, Photoshop and Substance Painter, for 3D objects, textures and custom images
-- 🛠️ Web tools for productivity and image manipulation
-- 💻 Desktop applications with Java, C# and WPF
-- 🌐 Web interfaces with HTML, CSS and JavaScript
-
----
-
-## 🌎 Languages
-
-| Language | Level | Main use |
-|---|---|---|
-| 🇧🇷 Portuguese | Native | Communication, studies, documentation and projects |
-| 🇺🇸 English | Intermediate | Projects, documentation, games and professional communication |
-
----
-
-## 🚀 Areas I'm exploring
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🎮 Game Dev</h3>
-      <p>Unity, Unreal Engine, gameplay, interfaces, systems and prototypes.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🧠 Systems</h3>
-      <p>Logic, architecture, automation, tools and custom applications.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🎨 Creative Tools</h3>
-      <p>Blender, textures, assets, visual editing and game development workflows.</p>
-    </td>
-  </tr>
-</table>
-
-<div align="right">
-
-[⬆️ Back to top](#-olá-eu-sou-ryan-lucas)
-
-</div>
 
 ---
 
@@ -140,35 +65,35 @@ I currently work with the following tools and technologies:
 ### 🎮 Game Development
 
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://docs.unity3d.com/)
-[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)](https://dev.epicgames.com/documentation/en-us/unreal-engine)
+[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
 [![Blueprints](https://img.shields.io/badge/Blueprints-137CBD?style=for-the-badge&logo=unrealengine&logoColor=white)](https://dev.epicgames.com/documentation/unreal-engine/blueprints-visual-scripting-in-unreal-engine)
 
 ### 🎨 3D, Arte e Texturas
 
-[![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)](https://docs.blender.org/manual/en/latest/)
-[![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)](https://helpx.adobe.com/photoshop/user-guide.html)
+[![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)](https://docs.blender.org/)
+[![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)](https://www.adobe.com/africa/learn/photoshop)
 [![Substance Painter](https://img.shields.io/badge/Substance%203D%20Painter-99E83F?style=for-the-badge&logo=adobe&logoColor=000000)](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/home)
 
 ### 💻 Linguagens
 
-[![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/learn/)
+[![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)](https://www.w3schools.com/cs/index.php)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/docs/home.html)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/docs)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ### 🌐 Web e Mobile
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/docs/getting-started)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://docs.flutter.dev/)
 
 ### 🧪 Ferramentas
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/docs)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://learn.microsoft.com/en-us/visualstudio/windows/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/pt)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://learn.microsoft.com/en-us/visualstudio/windows/?view=visualstudio)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/docs)
 
 ---
@@ -217,11 +142,21 @@ I currently work with the following tools and technologies:
 
 ---
 
-## 🔥 Atividade no GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=RyanLucas007&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## 🔥 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanLucas007&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 

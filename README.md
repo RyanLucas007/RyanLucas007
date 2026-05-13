@@ -162,16 +162,6 @@ Atualmente eu utilizo as seguintes ferramentas:
 
 ---
 
-## 🐍 Contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/RyanLucas007/RyanLucas007/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
 ## 📫 Contato
 
 <div align="center">

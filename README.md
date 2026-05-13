@@ -18,21 +18,24 @@
 
 ## 🧠 Sobre mim
 
-Sou um desenvolvedor brasileiro apaixonado por **jogos, softwares, interfaces, ferramentas e experiências interativas**.
+Olá, sou um desenvolvedor brasileiro apaixonado por **Jogos eletrônicos** desde quando eu era criança, dês então eu venho desenvolvendo uma paixão para a criação e desenvolvimento de jogos, softwares e interfaces web.
+Gosto de desenvolver ferramentas e aplicações que ajudam/poupam muito tempo, coisas que exigiam algumas horas e diversos processos para fazer, consigo reduzir a alguns minutos e apenas poucos cliques.
 
-Gosto de criar sistemas que misturam lógica, visual e criatividade.  
-Do código ao design, gosto de transformar ideias em projetos funcionais, organizados e com identidade própria.
+Atualmente eu utilizo as seguintes ferramentas:
 
-Atualmente estudo e desenvolvo projetos envolvendo:
-
-- 🎮 Desenvolvimento de jogos 2D e 3D
-- 🧩 Unity e Unreal Engine
-- 🧠 Blueprints, lógica de gameplay e sistemas interativos
-- 🎨 Blender, Photoshop e Substance Painter
+- 🧩 Unity e Unreal Engine (Para desenvolver jogos 2D e 3D)
+- 🎨 Blender, Photoshop e Substance Painter (Para criação de objetos 3D, texturas e imagens customizadas)
 - 🛠️ Ferramentas web para produtividade e manipulação de imagens
 - 💻 Aplicações desktop com Java, C# e WPF
-- 📱 Aplicativos mobile com Flutter e React Native
 - 🌐 Interfaces web com HTML, CSS e JavaScript
+
+---
+
+## 🌎 Idiomas
+| Idioma | Nível | Uso principal |
+| --- | --- | ---
+| Português | Idioma Nativo | Comunicação, estudos, documentação e projetos
+| Inglês | Intermediário | Uso para projetos e comunicação de negócios
 
 ---
 

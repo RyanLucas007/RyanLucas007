@@ -142,26 +142,6 @@ Atualmente eu utilizo as seguintes ferramentas:
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=RyanLucas007&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-## 🔥 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanLucas007&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
 ## 📫 Contato
 
 <div align="center">

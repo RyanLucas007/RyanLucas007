@@ -10,7 +10,7 @@
 
 ### Software, games and creative tools development
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Desenvolvendo+jogos+em+Unity;Criando+sistemas+com+Unreal+Engine;Construindo+ferramentas+para+devs;Explorando+interfaces%2C+gameplay+e+experi%C3%AAncias+interativas;Transformando+ideias+em+projetos+funcionais" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=developing+games+on+Unity;developing+games+on+Unreal+Engine;Building+tools+for+devs;Exploring+interfaces%2C+gameplay+and+experiences+interativas;Transformando+ideias+em+projetos+funcionais" />
 
 </div>
 

@@ -18,24 +18,24 @@
 
 ## 🧠 About me
 
-Hello, I am Brazilin developer apaixonado por **Jogos eletrônicos** desde quando eu era criança, dês então eu venho desenvolvendo uma paixão para a criação e desenvolvimento de jogos, softwares e interfaces web.
-Gosto de desenvolver ferramentas e aplicações que ajudam/poupam muito tempo, coisas que exigiam algumas horas e diversos processos para fazer, consigo reduzir a alguns minutos e apenas poucos cliques.
+Hello, I am a Brazilian developer passionate about video games since I was a child. Since then, I have been developing a passion for creating and developing games, software, and web interfaces.
+I like to develop tools and aplications that help a lot, reducing tasks that take hours and a lot of processing into just a few minutes.
 
 At the momment i'm using the following tools:
 
 - 🧩 Unity and Unreal Engine (To develop 2D and 3D games)
 - 🎨 Blender, Photoshop and Substance Painter (To creating 3D objects, textures and custom images)
-- 🛠️ Ferramentas web para produtividade e manipulação de imagens
-- 💻 Aplicações desktop com Java, C# e WPF
-- 🌐 Interfaces web com HTML, CSS e JavaScript
+- 🛠️ Web tools for productivity and image manipulation
+- 💻 Desktop aplications with Java, C# and WPF
+- 🌐 Web interfaces with HTML, CSS and JavaScript
 
 ---
 
 ## 🌎 Languages
-| Languagel | Level | Use for |
+| Languages | Level | Use for |
 | --- | --- | ---
-| Portuguese | Idioma Nativo | Comunicação, estudos, documentação e projetos
-| English | Intermediário | Uso para projetos e comunicação de negócios
+| Portuguese | Native language | Projects and comunications
+| English | Intermediary | Projects and business
 
 ---
 
@@ -45,22 +45,22 @@ At the momment i'm using the following tools:
   <tr>
     <td align="center" width="33%">
       <h3>🎮 Game Dev</h3>
-      <p>Unity, Unreal Engine, gameplay, interfaces, sistemas e protótipos.</p>
+      <p>Unity, Unreal Engine, gameplay, interfaces and systems</p>
     </td>
     <td align="center" width="33%">
       <h3>🧠 Systems</h3>
-      <p>Lógica, arquitetura, automações, ferramentas e aplicações personalizadas.</p>
+      <p>Logic, architecture, automations, tools and custom applications/</p>
     </td>
     <td align="center" width="33%">
       <h3>🎨 Creative Tools</h3>
-      <p>Blender, texturas, assets, edição visual e workflows para jogos.</p>
+      <p>Blender, textures, assets, visual editing and workflows for games.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧰 Tecnologias e ferramentas
+## 🧰 Tools and technology
 
 ### 🎮 Game Development
 
@@ -68,13 +68,13 @@ At the momment i'm using the following tools:
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
 [![Blueprints](https://img.shields.io/badge/Blueprints-137CBD?style=for-the-badge&logo=unrealengine&logoColor=white)](https://dev.epicgames.com/documentation/unreal-engine/blueprints-visual-scripting-in-unreal-engine)
 
-### 🎨 3D, Arte e Texturas
+### 🎨 3D, Textures and Art
 
 [![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)](https://docs.blender.org/)
 [![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)](https://www.adobe.com/africa/learn/photoshop)
 [![Substance Painter](https://img.shields.io/badge/Substance%203D%20Painter-99E83F?style=for-the-badge&logo=adobe&logoColor=000000)](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/home)
 
-### 💻 Linguagens
+### 💻 Languages
 
 [![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)](https://www.w3schools.com/cs/index.php)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
@@ -82,14 +82,14 @@ At the momment i'm using the following tools:
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/docs)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-### 🌐 Web e Mobile
+### 🌐 Web and Mobile
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/docs/getting-started)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://docs.flutter.dev/)
 
-### 🧪 Ferramentas
+### 🧪 Tools
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/docs)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/pt)
@@ -98,7 +98,7 @@ At the momment i'm using the following tools:
 
 ---
 
-## 🧩 Projetos e interesses
+## 🧩 Projects and interests
 
 <table>
   <tr>

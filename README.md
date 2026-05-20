@@ -6,9 +6,9 @@
 
 <div align="center">
 
-# 👋 Olá, eu sou Ryan Lucas
+# 👋 Hi, I'm Ryan Lucas
 
-### Desenvolvedor de softwares, jogos eletrônicos e ferramentas criativas
+### Software, games and creative tools development
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Desenvolvendo+jogos+em+Unity;Criando+sistemas+com+Unreal+Engine;Construindo+ferramentas+para+devs;Explorando+interfaces%2C+gameplay+e+experi%C3%AAncias+interativas;Transformando+ideias+em+projetos+funcionais" />
 
@@ -16,30 +16,30 @@
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 About me
 
-Olá, sou um desenvolvedor brasileiro apaixonado por **Jogos eletrônicos** desde quando eu era criança, dês então eu venho desenvolvendo uma paixão para a criação e desenvolvimento de jogos, softwares e interfaces web.
+Hello, I am Brazilin developer apaixonado por **Jogos eletrônicos** desde quando eu era criança, dês então eu venho desenvolvendo uma paixão para a criação e desenvolvimento de jogos, softwares e interfaces web.
 Gosto de desenvolver ferramentas e aplicações que ajudam/poupam muito tempo, coisas que exigiam algumas horas e diversos processos para fazer, consigo reduzir a alguns minutos e apenas poucos cliques.
 
-Atualmente eu utilizo as seguintes ferramentas:
+At the momment i'm using the following tools:
 
-- 🧩 Unity e Unreal Engine (Para desenvolver jogos 2D e 3D)
-- 🎨 Blender, Photoshop e Substance Painter (Para criação de objetos 3D, texturas e imagens customizadas)
+- 🧩 Unity and Unreal Engine (To develop 2D and 3D games)
+- 🎨 Blender, Photoshop and Substance Painter (To creating 3D objects, textures and custom images)
 - 🛠️ Ferramentas web para produtividade e manipulação de imagens
 - 💻 Aplicações desktop com Java, C# e WPF
 - 🌐 Interfaces web com HTML, CSS e JavaScript
 
 ---
 
-## 🌎 Idiomas
-| Idioma | Nível | Uso principal |
+## 🌎 Languages
+| Languagel | Level | Use for |
 | --- | --- | ---
-| Português | Idioma Nativo | Comunicação, estudos, documentação e projetos
-| Inglês | Intermediário | Uso para projetos e comunicação de negócios
+| Portuguese | Idioma Nativo | Comunicação, estudos, documentação e projetos
+| English | Intermediário | Uso para projetos e comunicação de negócios
 
 ---
 
-## 🚀 Áreas que estou explorando
+## 🚀 Areas i'm exploring
 
 <table>
   <tr>
@@ -142,7 +142,7 @@ Atualmente eu utilizo as seguintes ferramentas:
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 <div align="center">
 

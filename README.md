@@ -103,40 +103,40 @@ At the momment i'm using the following tools:
 <table>
   <tr>
     <td width="50%">
-      <h3>🎮 Jogos e protótipos</h3>
-      <p>Criação de jogos 2D e 3D usando Unity e Unreal Engine, com foco em gameplay, sistemas, menus, progressão e experiências interativas.</p>
+      <h3>🎮 Games and Prototypes</h3>
+      <p>Creation of 2D and 3D games using Unity and Unreal Engine, focusing on gameplay, system, menus, progression and interactive experiences.</p>
     </td>
     <td width="50%">
-      <h3>🛠️ Ferramentas para desenvolvedores</h3>
-      <p>Ferramentas em HTML, CSS e JavaScript para manipulação de imagens, conversão de arquivos, organização de assets e automação de tarefas.</p>
+      <h3>🛠️ Developers tools</h3>
+      <p>Tools in HTML, CSS and JavaScript for image manipulation, file conversion, assets organization and task automation</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🖥️ Aplicações desktop</h3>
-      <p>Sistemas criados com Java, C# e WPF, incluindo interfaces customizadas, gerenciadores e aplicações locais.</p>
+      <h3>🖥️ Deskotop aplications</h3>
+      <p>System created with Python, C# and WPF. Including custom interfaces, managers and local applications.</p>
     </td>
     <td width="50%">
-      <h3>📱 Aplicativos mobile</h3>
-      <p>Estudos e projetos com Flutter e React Native, explorando telas, navegação, APIs, estados e interfaces modernas.</p>
+      <h3>📱 Mobile apps</h3>
+      <p>Studies and projects with Flutter and React Native, exploring screens, navigation, APIs, states and modern interfaces.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧪 Atualmente focado em
+## 🧪 Currently focused on
 
 <div align="center">
 
-| Área | O que estou praticando |
+| Area | What I am practicing |
 |---|---|
-| 🎮 Unity | Jogos 2D, UI, sistemas e mecânicas |
-| 🧠 Unreal Engine | Blueprints, gameplay e interfaces |
-| 🎨 Blender | Modelagem, UV, assets e preparação para games |
-| 💻 C# / Java | Aplicações desktop e lógica de sistemas |
-| 📱 Mobile | Flutter, React Native e consumo de APIs |
-| 🌐 Web Tools | Ferramentas em HTML, CSS e JavaScript |
+| 🎮 Unity | 2D games, UI, systems and mechanics |
+| 🧠 Unreal Engine | Blueprints, gameplay and interfaces |
+| 🎨 Blender | Modeling, UV, assets and preparation for games |
+| 💻 C# / Python | Desktop applications and system logic |
+| 📱 Mobile | Flutter, React Native and API consumption |
+| 🌐 Web Tools | Tools in HTML, CSS and JavaScript |
 
 </div>
 

@@ -48,6 +48,7 @@ I started in this area at the age of 14, creating mods and tools for games. At 1
 Today, I keep studying, building and improving my skills, turning curiosity into real projects.
 
 
+
 ## 🌌 Origin
 
 Before building a system, I try to understand the logic behind it.
@@ -58,9 +59,7 @@ I build systems because I like to understand how things work behind the curtain.
 
 That curiosity is what guides the way I study, develop and transform ideas into functional projects.
 
-<div align="center">
-  <img width="100%" src="./assets/gifs/flat-stars-divider.gif" alt="Animated star divider"/>
-</div>
+
 
 ## 🚀 Areas I explore
 

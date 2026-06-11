@@ -135,15 +135,15 @@ That curiosity is what guides the way I study, develop and transform ideas into 
 
 <table>
   <tr>
-    <td width="33%">
+    <td align="center" width="33%">
       <h3>01 Explore</h3>
       <p>Understand and carefully study the environment before building the solution.</p>
     </td>
-    <td width="33%">
+    <td align="center" width="33%">
       <h3>02 Connect</h3>
       <p>Create systems where every piece has a reason to be there and to exist.</p>
     </td>
-    <td width="33%">
+    <td align="center" width="33%">
       <h3>03 Evolve</h3>
      <p>Continuously refine the project until it stops being just an idea and becomes an identity</p>
     </td>

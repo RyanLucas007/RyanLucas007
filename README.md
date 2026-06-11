@@ -193,7 +193,7 @@ That curiosity is what guides the way I study, develop and transform ideas into 
 <div align="center">
 
 <p>
-  My portfolio contains the full project archive, technical details and visual presentation.
+  My portfolio for those who want to know more about my projects.
 </p>
 
 <a href="https://ryanlucas007.github.io/ryan-portfolio/">
@@ -203,9 +203,3 @@ That curiosity is what guides the way I study, develop and transform ideas into 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-
-<div align="center">
-
-© 2026 Ryan Lucas. All rights reserved.
-
-</div>

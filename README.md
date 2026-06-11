@@ -19,7 +19,7 @@
 
 <br/>
 
-<img width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
+<img width="650" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
 
 <br/>
 <br/>

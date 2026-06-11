@@ -133,15 +133,15 @@ Essa curiosidade é o que guia minha forma de estudar, desenvolver e transformar
 <table>
   <tr>
     <td width="33%">
-      <h3>01 — Explorar</h3>
-      <p>Investigar antes de construir. Entender o ambiente antes de definir a solução.</p>
+      <h3>01 Explorar</h3>
+      <p>Entender e investigar com calma o ambiente antes de montar a solução</p>
     </td>
     <td width="33%">
-      <h3>02 — Conectar</h3>
-      <p>Criar sistemas onde cada peça tem motivo para existir e interagir.</p>
+      <h3>02 Conectar</h3>
+      <p>Criar sistemas aonde cada peça tem motivo para estar ali e existir.</p>
     </td>
     <td width="33%">
-      <h3>03 — Evoluir</h3>
+      <h3>03 Evoluir</h3>
       <p>Refinar continuamente até o projeto deixar de ser apenas uma ideia e se tornar uma identidade.</p>
     </td>
   </tr>

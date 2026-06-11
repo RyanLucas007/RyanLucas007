@@ -135,17 +135,20 @@ That curiosity is what guides the way I study, develop and transform ideas into 
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td width="33%" align="center">
+      <img width="220" src="./assets/gifs/principle-explore.gif" alt="Explore animation"/>
       <h3>01 Explore</h3>
       <p>Understand and carefully study the environment before building the solution.</p>
     </td>
-    <td align="center" width="33%">
+    <td width="33%" align="center">
+      <img width="220" src="./assets/gifs/principle-connect.gif" alt="Connect animation"/>
       <h3>02 Connect</h3>
       <p>Create systems where every piece has a reason to be there and to exist.</p>
     </td>
-    <td align="center" width="33%">
+    <td width="33%" align="center">
+      <img width="220" src="./assets/gifs/principle-evolve.gif" alt="Evolve animation"/>
       <h3>03 Evolve</h3>
-     <p>Continuously refine the project until it stops being just an idea and becomes an identity</p>
+      <p>Continuously refine the project until it stops being just an idea and becomes an identity.</p>
     </td>
   </tr>
 </table>

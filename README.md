@@ -37,10 +37,6 @@
 
 ## 🧠 About me
 
-<div align="center">
-  <img width="380" src="./assets/gifs/flat-dino-curiosity.gif" alt="2D dinosaur curiosity animation"/>
-</div>
-
 Hello, my name is Ryan Lucas. I am a Brazilian developer focused on games, software, and tools, driven by the curiosity to understand how things work beneath the surface.
 
 For me, creating is not just about putting features together. It is about building systems with purpose, connection and real impact for the people who use them.

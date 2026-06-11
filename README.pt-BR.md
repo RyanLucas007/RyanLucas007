@@ -20,29 +20,13 @@
 <br/>
 <br/>
 
-<img width="520" src="./assets/gifs/pixel-dev-terminal.gif" alt="Pixel art developer coding animation"/>
-
-<br/>
-<br/>
-
-<a href="https://ryanlucas007.github.io/ryan-portfolio/">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-Visitar%20portf%C3%B3lio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<br/>
-<br/>
-
-<img width="520" src="./assets/gifs/pixel-stars-divider.gif" alt="Pixel art animated stars divider"/>
+<img width="420" src="./assets/gifs/flat-dev-workspace.gif" alt="2D developer workspace animation"/>
 
 </div>
 
 ---
 
 ## 🧠 Sobre mim
-
-<table>
-  <tr>
-    <td width="70%">
 
 Olá, me chamo Ryan Lucas. Sou desenvolvedor brasileiro focado em jogos, softwares e ferramentas, movido pela curiosidade de entender como as coisas funcionam por trás da superfície.
 
@@ -58,25 +42,9 @@ Comecei nessa área aos 14 anos, criando mods e ferramentas para jogos. Aos 14, 
 
 Hoje, continuo estudando, construindo e aprimorando minhas habilidades, transformando curiosidade em projetos reais.
 
-  </td>
-  <td align="center" width="30%">
-    <img width="230" src="./assets/gifs/pixel-dino-walk.gif" alt="Pixel art dinosaur animation"/>
-    <br/>
-    <sub>Curiosidade, jogos e sistemas.</sub>
-  </td>
-  </tr>
-</table>
-
 ---
 
 ## 🌌 Origem
-
-<table>
-  <tr>
-    <td align="center" width="30%">
-      <img width="260" src="./assets/gifs/pixel-rocket-space.gif" alt="Pixel art rocket flying through space"/>
-    </td>
-    <td width="70%">
 
 Antes de construir um sistema, eu procuro entender a lógica por trás dele.
 
@@ -86,10 +54,6 @@ Eu construo sistemas porque gosto de entender como as coisas funcionam por trás
 
 Essa curiosidade é o que guia minha forma de estudar, desenvolver e transformar ideias em projetos funcionais.
 
-  </td>
-  </tr>
-</table>
-
 ---
 
 ## 🚀 Áreas que exploro
@@ -97,17 +61,17 @@ Essa curiosidade é o que guia minha forma de estudar, desenvolver e transformar
 <table>
   <tr>
     <td align="center" width="33%">
-      <img width="170" src="./assets/gifs/pixel-gamepad.gif" alt="Pixel art gamepad animation"/>
+      <img width="220" src="./assets/gifs/flat-game-systems.gif" alt="Game systems animation"/>
       <h3>🎮 Sistemas de Jogos</h3>
       <p>Mecânicas de gameplay, progressão, materiais, efeitos visuais e regras para jogos e mods.</p>
     </td>
     <td align="center" width="33%">
-      <img width="170" src="./assets/gifs/pixel-tools.gif" alt="Pixel art technical tools animation"/>
+      <img width="220" src="./assets/gifs/flat-technical-tools.gif" alt="Technical tools animation"/>
       <h3>🛠️ Ferramentas Técnicas</h3>
       <p>Aplicações desktop, painéis administrativos, automações e sistemas locais de gerenciamento.</p>
     </td>
     <td align="center" width="33%">
-      <img width="170" src="./assets/gifs/pixel-web-window.gif" alt="Pixel art web interface animation"/>
+      <img width="220" src="./assets/gifs/flat-web-product.gif" alt="Web product animation"/>
       <h3>🌐 Web e Produto</h3>
       <p>Interfaces modernas, experiências interativas e produtos digitais com foco em usabilidade.</p>
     </td>
@@ -117,12 +81,6 @@ Essa curiosidade é o que guia minha forma de estudar, desenvolver e transformar
 ---
 
 ## 🧰 Ferramentas e tecnologias
-
-<div align="center">
-  <img width="480" src="./assets/gifs/pixel-network.gif" alt="Pixel art connected systems animation"/>
-</div>
-
-<br/>
 
 ### 🎮 Desenvolvimento de Jogos
 
@@ -169,31 +127,28 @@ Essa curiosidade é o que guia minha forma de estudar, desenvolver e transformar
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
----
 
 ## 🧭 Princípios
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <img width="140" src="./assets/gifs/pixel-rocket-space.gif" alt="Pixel art explore animation"/>
+      <img width="220" src="./assets/gifs/principle-explore.gif" alt="Explore animation"/>
       <h3>01 Explorar</h3>
       <p>Entender e investigar com calma o ambiente antes de montar a solução.</p>
     </td>
     <td align="center" width="33%">
-      <img width="140" src="./assets/gifs/pixel-network.gif" alt="Pixel art connect animation"/>
+      <img width="220" src="./assets/gifs/principle-connect.gif" alt="Connect animation"/>
       <h3>02 Conectar</h3>
       <p>Criar sistemas onde cada peça tem motivo para estar ali e existir.</p>
     </td>
     <td align="center" width="33%">
-      <img width="140" src="./assets/gifs/pixel-learning.gif" alt="Pixel art evolve animation"/>
+      <img width="220" src="./assets/gifs/principle-evolve.gif" alt="Evolve animation"/>
       <h3>03 Evoluir</h3>
       <p>Refinar continuamente até o projeto deixar de ser apenas uma ideia e se tornar uma identidade.</p>
     </td>
   </tr>
 </table>
-
----
 
 ## 🎯 Direção atual
 
@@ -230,7 +185,7 @@ Essa curiosidade é o que guia minha forma de estudar, desenvolver e transformar
 
 <div align="center">
 
-<img width="300" src="./assets/gifs/pixel-portal.gif" alt="Pixel art portal animation"/>
+<img width="420" src="./assets/gifs/flat-contact-portal.gif" alt="Contact portal animation"/>
 
 <br/>
 <br/>
@@ -256,17 +211,6 @@ Essa curiosidade é o que guia minha forma de estudar, desenvolver e transformar
   <img src="https://img.shields.io/badge/Abrir%20Portf%C3%B3lio-Explorar%20meu%20trabalho-58A6FF?style=for-the-badge&logo=rocket&logoColor=white"/>
 </a>
 
-<br/>
-<br/>
-
-<img width="520" src="./assets/gifs/pixel-stars-divider.gif" alt="Pixel art animated stars divider"/>
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-
-<div align="center">
-
-© 2026 Ryan Lucas. Todos os direitos reservados.
-
-</div>

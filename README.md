@@ -168,6 +168,8 @@ That curiosity is what guides the way I study, develop and transform ideas into 
 | 📚 Learning | Technical research, documentation and continuous improvement |
 
 </div>
+
+
 ## 🌎 Languages
 
 | Language | Level | Use |

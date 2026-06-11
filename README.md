@@ -31,10 +31,6 @@
 
 </div>
 
-<div align="center">
-  <img width="100%" src="./assets/gifs/flat-stars-divider.gif" alt="Animated star divider"/>
-</div>
-
 ## 🧠 About me
 
 Hello, my name is Ryan Lucas. I am a Brazilian developer focused on games, software, and tools, driven by the curiosity to understand how things work beneath the surface.
@@ -51,9 +47,6 @@ I started in this area at the age of 14, creating mods and tools for games. At 1
 
 Today, I keep studying, building and improving my skills, turning curiosity into real projects.
 
-<div align="center">
-  <img width="100%" src="./assets/gifs/flat-stars-divider.gif" alt="Animated star divider"/>
-</div>
 
 ## 🌌 Origin
 

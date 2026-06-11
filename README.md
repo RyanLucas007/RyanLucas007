@@ -22,14 +22,7 @@
 
 <img width="420" src="./assets/gifs/flat-dev-workspace.gif" alt="2D developer workspace animation"/>
 
-<br/>
-<br/>
 
-<a href="https://ryanlucas007.github.io/ryan-portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
 
 ## 🧠 About me
 
@@ -83,9 +76,7 @@ That curiosity is what guides the way I study, develop and transform ideas into 
   </tr>
 </table>
 
-<div align="center">
-  <img width="100%" src="./assets/gifs/flat-stars-divider.gif" alt="Animated star divider"/>
-</div>
+
 
 ## 🧰 Tools and technologies
 
@@ -134,15 +125,11 @@ That curiosity is what guides the way I study, develop and transform ideas into 
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
-<div align="center">
-  <img width="100%" src="./assets/gifs/flat-stars-divider.gif" alt="Animated star divider"/>
-</div>
+
 
 ## 🧭 Principles
 
-<div align="center">
-  <img width="430" src="./assets/gifs/flat-principles.gif" alt="Principles animation"/>
-</div>
+
 
 <table>
   <tr>
@@ -161,15 +148,12 @@ That curiosity is what guides the way I study, develop and transform ideas into 
   </tr>
 </table>
 
-<div align="center">
-  <img width="100%" src="./assets/gifs/flat-stars-divider.gif" alt="Animated star divider"/>
-</div>
+
 
 ## 🎯 Current direction
 
 <div align="center">
 
-<img width="380" src="./assets/gifs/flat-learning.gif" alt="Continuous learning animation"/>
 
 <br/>
 <br/>
@@ -184,11 +168,6 @@ That curiosity is what guides the way I study, develop and transform ideas into 
 | 📚 Learning | Technical research, documentation and continuous improvement |
 
 </div>
-
-<div align="center">
-  <img width="100%" src="./assets/gifs/flat-stars-divider.gif" alt="Animated star divider"/>
-</div>
-
 ## 🌎 Languages
 
 | Language | Level | Use |

@@ -18,6 +18,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+game+systems+and+interactive+experiences;Creating+software+and+technical+tools;Exploring+Unreal+Engine%2C+Unity+and+Godot;Turning+curiosity+into+real+projects;Designing+systems+with+purpose+and+identity" />
 
 <br/>
+
+<img width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
+
+<br/>
 <br/>
 
 </div>

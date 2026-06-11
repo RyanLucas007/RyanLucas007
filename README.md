@@ -30,7 +30,7 @@
 
 ## 🧠 About me
 
-Hello, my name is Ryan Lucas. I am a game, software and tools developer, driven by the curiosity to understand how things work beneath the surface.
+Hello, my name is Ryan Lucas. I am a Brazilian developer focused on games, software, and tools, driven by the curiosity to understand how things work beneath the surface.
 
 For me, creating is not just about putting features together. It is about building systems with purpose, connection and real impact for the people who use them.
 

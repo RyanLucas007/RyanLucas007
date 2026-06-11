@@ -154,11 +154,6 @@ Essa curiosidade é o que guia minha forma de estudar, desenvolver e transformar
 
 <div align="center">
 
-<img width="380" src="./assets/gifs/pixel-learning.gif" alt="Pixel art learning animation"/>
-
-<br/>
-<br/>
-
 | Área | Foco |
 |---|---|
 | 🎮 Engines | Unreal Engine, Unity, Godot, sistemas de gameplay e interfaces |

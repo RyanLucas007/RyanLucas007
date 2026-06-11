@@ -133,16 +133,16 @@ That curiosity is what guides the way I study, develop and transform ideas into 
 <table>
   <tr>
     <td width="33%">
-      <h3>01 — Explore</h3>
-      <p>Investigate before building. Understand the environment before defining the solution.</p>
+      <h3>01 Explore</h3>
+      <p>Understand and carefully study the environment before building the solution.</p>
     </td>
     <td width="33%">
-      <h3>02 — Connect</h3>
-      <p>Create systems where every piece has a reason to exist and interact.</p>
+      <h3>02 Connect</h3>
+      <p>Create systems where every piece has a reason to be there and to exist.</p>
     </td>
     <td width="33%">
-      <h3>03 — Evolve</h3>
-      <p>Refine continuously until the project stops being only an idea and becomes an identity.</p>
+      <h3>03 Evolve</h3>
+      <p>Continuously refine the project until it stops being just an idea and becomes an identity</p>
     </td>
   </tr>
 </table>

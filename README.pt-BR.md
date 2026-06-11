@@ -30,7 +30,7 @@
 
 ## 🧠 Sobre mim
 
-Olá, meu nome é Ryan Lucas. Sou um desenvolvedor brasileiro focado em jogos, softwares e ferramentas, movido pela curiosidade de entender como as coisas funcionam por trás da superfície.
+Olá, me chamo Ryan Lucas. Sou desenvolvedor brasileiro focado em jogos, softwares e ferramentas, movido pela curiosidade de entender como as coisas funcionam por trás da superfície.
 
 Para mim, criar não é apenas juntar funcionalidades. É construir sistemas com propósito, conexão e impacto real para as pessoas que os utilizam.
 

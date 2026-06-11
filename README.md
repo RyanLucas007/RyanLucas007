@@ -22,7 +22,9 @@
 
 <img width="420" src="./assets/gifs/flat-dev-workspace.gif" alt="2D developer workspace animation"/>
 
+</div>
 
+---
 
 ## 🧠 About me
 

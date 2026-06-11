@@ -168,15 +168,15 @@ That curiosity is what guides the way I study, develop and transform ideas into 
   <tr>
     <td width="33%">
       <h3>01 Explore</h3>
-      <p>Understand and investigate the environment with care before building the solution.</p>
+      <p>Understand and carefully study the environment before building the solution.</p>
     </td>
     <td width="33%">
       <h3>02 Connect</h3>
-      <p>Create systems where every piece has a purpose and a reason to exist.</p>
+      <p>Create systems where every piece has a reason to be there and to exist.</p>
     </td>
     <td width="33%">
       <h3>03 Evolve</h3>
-      <p>Continuously refine the project until it becomes more than an idea — until it becomes an identity.</p>
+     <p>Continuously refine the project until it stops being just an idea and becomes an identity</p>
     </td>
   </tr>
 </table>
@@ -241,7 +241,7 @@ That curiosity is what guides the way I study, develop and transform ideas into 
 <div align="center">
 
 <p>
-  My portfolio is the best place to learn more about my projects and creative process.
+  My portfolio for those who want to know more about my projects.
 </p>
 
 <a href="https://ryanlucas007.github.io/ryan-portfolio/">
@@ -251,9 +251,3 @@ That curiosity is what guides the way I study, develop and transform ideas into 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-
-<div align="center">
-
-© 2026 Ryan Lucas. All rights reserved.
-
-</div>

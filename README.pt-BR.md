@@ -193,7 +193,7 @@ Essa curiosidade é o que guia minha forma de estudar, desenvolver e transformar
 <div align="center">
 
 <p>
-  Meu portfólio contém o arquivo completo de projetos, detalhes técnicos e apresentação visual.
+  Meu portfólio para quem quiser saber mais sobre os meus projetos.
 </p>
 
 <a href="https://ryanlucas007.github.io/ryan-portfolio/">
@@ -203,9 +203,3 @@ Essa curiosidade é o que guia minha forma de estudar, desenvolver e transformar
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-
-<div align="center">
-
-© 2026 Ryan Lucas. Todos os direitos reservados.
-
-</div>

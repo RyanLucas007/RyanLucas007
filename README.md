@@ -57,10 +57,6 @@ Today, I keep studying, building and improving my skills, turning curiosity into
 
 ## 🌌 Origin
 
-<div align="center">
-  <img width="430" src="./assets/gifs/flat-space-orbit.gif" alt="2D space orbit animation"/>
-</div>
-
 Before building a system, I try to understand the logic behind it.
 
 I build systems because I like to understand how things work behind the curtain. To me, games, paleontology and astronomy carry the same question:
@@ -100,10 +96,6 @@ That curiosity is what guides the way I study, develop and transform ideas into 
 </div>
 
 ## 🧰 Tools and technologies
-
-<div align="center">
-  <img width="430" src="./assets/gifs/flat-systems-network.gif" alt="Systems network animation"/>
-</div>
 
 ### 🎮 Game Development
 

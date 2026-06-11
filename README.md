@@ -20,10 +20,6 @@
 <br/>
 <br/>
 
-<a href="https://ryanlucas007.github.io/ryan-portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
 </div>
 
 ---

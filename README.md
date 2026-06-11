@@ -9,20 +9,20 @@
 
 </div>
 
+<h1 align="center">👋 Hi, I'm Ryan Lucas</h1>
+
+<h3 align="center">Exploring software, building complex systems and creating playable worlds.</h3>
+
 <div align="center">
-
-# 👋 Hi, I'm Ryan Lucas
-
-### Exploring software, building complex systems and creating playable worlds.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+game+systems+and+interactive+experiences;Creating+software+and+technical+tools;Exploring+Unreal+Engine%2C+Unity+and+Godot;Turning+curiosity+into+real+projects;Designing+systems+with+purpose+and+identity" />
 
 <br/>
 <br/>
 
-<img width="420" src="./assets/gifs/flat-dev-workspace.gif" alt="2D developer workspace animation"/>
+</div>
 
-
+---
 
 ## 🧠 About me
 
@@ -40,7 +40,7 @@ I started in this area at the age of 14, creating mods and tools for games. At 1
 
 Today, I keep studying, building and improving my skills, turning curiosity into real projects.
 
-
+---
 
 ## 🌌 Origin
 
@@ -52,31 +52,28 @@ I build systems because I like to understand how things work behind the curtain.
 
 That curiosity is what guides the way I study, develop and transform ideas into functional projects.
 
-
+---
 
 ## 🚀 Areas I explore
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <img width="220" src="./assets/gifs/flat-game-systems.gif" alt="Game systems animation"/>
       <h3>🎮 Game Systems</h3>
       <p>Gameplay mechanics, progression, materials, visual effects and rules for games and mods.</p>
     </td>
     <td align="center" width="33%">
-      <img width="220" src="./assets/gifs/flat-technical-tools.gif" alt="Technical tools animation"/>
       <h3>🛠️ Technical Tools</h3>
       <p>Desktop applications, admin panels, automations and local management systems.</p>
     </td>
     <td align="center" width="33%">
-      <img width="220" src="./assets/gifs/flat-web-product.gif" alt="Web product animation"/>
       <h3>🌐 Web and Product</h3>
       <p>Modern interfaces, interactive experiences and digital products focused on usability.</p>
     </td>
   </tr>
 </table>
 
-
+---
 
 ## 🧰 Tools and technologies
 
@@ -125,11 +122,9 @@ That curiosity is what guides the way I study, develop and transform ideas into 
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
-
+---
 
 ## 🧭 Principles
-
-
 
 <table>
   <tr>
@@ -143,20 +138,14 @@ That curiosity is what guides the way I study, develop and transform ideas into 
     </td>
     <td width="33%">
       <h3>03 Evolve</h3>
-     <p>Continuously refine the project until it stops being just an idea and becomes an identity</p>
+      <p>Continuously refine the project until it stops being just an idea and becomes an identity</p>
     </td>
   </tr>
 </table>
 
-
+---
 
 ## 🎯 Current direction
-
-<div align="center">
-
-
-<br/>
-<br/>
 
 | Area | Focus |
 |---|---|
@@ -167,8 +156,7 @@ That curiosity is what guides the way I study, develop and transform ideas into 
 | 🎨 Technical Art | Blender, materials, textures and asset preparation |
 | 📚 Learning | Technical research, documentation and continuous improvement |
 
-</div>
-
+---
 
 ## 🌎 Languages
 
@@ -182,11 +170,6 @@ That curiosity is what guides the way I study, develop and transform ideas into 
 ## 📫 Contact
 
 <div align="center">
-
-<img width="420" src="./assets/gifs/flat-contact-portal.gif" alt="Contact portal animation"/>
-
-<br/>
-<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ryanlucas007.github.io/ryan-portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-RyanLucas007-181717?style=for-the-badge&logo=github)](https://github.com/RyanLucas007)

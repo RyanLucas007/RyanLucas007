@@ -17,9 +17,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Criando+sistemas+de+jogos+e+experiencias+interativas;Desenvolvendo+softwares+e+ferramentas+tecnicas;Explorando+Unreal+Engine%2C+Unity+e+Godot;Transformando+curiosidade+em+projetos+reais;Projetando+sistemas+com+proposito+e+identidade" />
 
-<br/>
-<br/>
+<img width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
 
+<br/>
+<br/>
 </div>
 
 ---
